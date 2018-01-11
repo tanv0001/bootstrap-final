@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather|News+Cycle|Ultra');
+html,body{
+    height: 100%;
+    background-color:#fff;
+    color:#fff ;
+    font-family: 'News Cycle', 'arial',sans-serif;
+}
+h1,h2,h3,h4{
+ font-family: 'ultra', 'times new roman',serif;   
+}
+header{
+  margin-top: 2rem;  
+}
+.btn-green{
+   background-color: #2015E3;
+    
+}
+.btn-green:hover{
+    background-color: #3AFEFF;
+}
+.jumbotron-head{
+    background-image: url(../img/UFcv42L.jpg);
+    display: block;
+    height: 100%;
+    width:100%;
+}
+.jumbotron-mission{
+ background-color: #2dffce;
+    
+}
+.jumbotron-help{
+  background-color:#18036E;  
+}
+.jumbotron-join{
+  background-color: #3AFEFF;  
+}
+container-title{
+    background-color: #E31100;
+}
+li.sm{
+   list-style: none;
+}
+main.img{
+    border: 1px solid #E31100;
+}
+footer img{
+    height:70px;
+    width: 70px;
+}
+footer li {
+    margin-left: 0.25rem;
+    float: right;
+}
